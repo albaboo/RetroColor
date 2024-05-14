@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="shortcut icon" href="images/logo.png">
+		<meta charset="UTF-8">
+		<meta name="author" content="Alba Díaz Bazán">
+		<meta name="keywords" content="RETRO, PLAY, ONLINE">
+		<meta name="description" content="RetroColor">
+		<link rel="stylesheet" href="rana.css" />
+		<title>La rana</title>
+	</head>
+  <body>
+    <main>
+        <section class="score-section">
+          <p>score: <span id="kill-count">0</span></p>
+        </section>
+        <section class="tutorial-container">
+          <h1>Fly Catcher</h1>
+          <section>
+            <p><b>Space:</b> Start / Stop Game</p>
+            <p><b>W -- Up Arrow:</b> Fire</p>
+            <p><b>A -- Left Arrow:</b> Left</p>
+            <p><b>D -- Right Arrow:</b> Right</p>
+          </section>
+        </section>
+        <section class="enemy-container"></section>
+        <section class="char-container">
+          <div class="character" id="character">
+            <div class="fire">
+              <div></div>
+            </div>
+          </div>
+         </section>
+         <button id="btn-restart">Start</button>
+      </main>
+	<!-- SCRIPT -->
+	<script src="rana.js"></script>
+  </body>
+</html>
