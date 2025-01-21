@@ -5,5 +5,9 @@ About webpage is [here](https://github.com/albaboo/RetroColor/blob/main/about.ht
 
 Images from the website is [here](https://github.com/albaboo/RetroColor/tree/main/images)
 
+The CSS of the website is [here](https://github.com/albaboo/RetroColor/tree/main/assets/css)
+
+The JS of the website is [here](https://github.com/albaboo/RetroColor/tree/main/assets/js)
+
 ## About Us
 We're Alba Díaz, Christian Godoy and Pol Penarroya, the members of this company.
