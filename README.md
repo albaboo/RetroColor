@@ -10,4 +10,4 @@ The CSS of the website is [here](https://github.com/albaboo/RetroColor/tree/main
 The JS of the website is [here](https://github.com/albaboo/RetroColor/tree/main/assets/js)
 
 ## About Us
-We're [Alba Díaz](https://about.me/albadiazbazan), [Christian Godoy](https://www.linkedin.com/in/christian-godoy-estepa-595781262/) and [Pol Peñarroya](https://www.linkedin.com/in/pol-penarroya-grau-294b61261/), the members of this company.
+We're [Alba Díaz](https://about.me/albadiazbazan), [Christian Godoy](https://www.linkedin.com/in/christian-godoy-estepa-595781262/) and [Pol Peñarroya](https://www.linkedin.com/in/pol-penarroya-grau-294b61261/), the members of this company and we were students of Microcomputer Systems and Networks at the [Sabadell Institute](https://agora.xtec.cat/ies-sabadell/)
